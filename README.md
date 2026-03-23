@@ -1,3 +1,11 @@
+# RoadMetrics
+
+> RoadMetrics — Sovereign analytics. BlackRoad fork of Plausible. Privacy-first, no cookies, GDPR compliant.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 # Plausible Analytics
 
 <p align="center">
